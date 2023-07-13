@@ -1,0 +1,155 @@
+
+            header{
+                margin-top: 0;
+                margin-bottom: 15px;
+            }
+            article{
+                width: 700px;
+                font-family: roboto;
+                font-size: 11px;
+                margin-bottom: 15px;
+                margin-top: 8px;
+                color: antiquewhite;
+                line-height: 20px;
+            }
+            ul{
+                padding-left: 15px;
+            }
+            .h1_line{
+                display: inline-block;
+                margin-top: 0;
+            }
+
+            .top_info{
+                margin-top: 0;
+                display: inline-block;
+                color: rgba(182, 182, 182, 0.899);
+                font-size: 18px;
+                font-weight: 600;
+                text-decoration: none;
+            }
+            .top_nav_bar{
+                float: right;
+                height: 20px;
+                color: white;          
+            }
+            .color{
+                background-image: url('test_3.0.jpg');
+                background-size: cover; 
+                backdrop-filter: blur(1px);
+        
+            }
+            .h2_op{
+                color: antiquewhite;
+            }
+            .dots{
+                color: antiquewhite;
+            }
+            .body_op{
+                display: inline-block;
+            }
+            .artic_op{
+                display: inline-block;
+            }
+            .video_op{
+                margin-top: 10px;
+                border-color: transparent;
+            }
+            .home{
+                font-size: 11px;
+                margin-right: 5px;
+                color: white;
+                text-decoration: none;
+            }
+            .home:hover{
+                text-decoration: underline;
+                color: rgb(87, 14, 222);
+                cursor: pointer;
+            }
+            .home:active{
+                opacity: 0.7;
+            }
+            .about{
+                font-size: 11px;
+                margin-right: 5px;
+                color: white;
+                text-decoration: none;
+            }
+            .about:hover{
+                text-decoration: underline;
+                color: rgb(87, 14, 222);
+                cursor: pointer;
+            }
+            .about:active{
+                opacity: 0.7;
+            }
+            .work{
+                font-size: 11px;
+                margin-right: 5px;
+                color: white;
+                text-decoration: none;
+            }
+            .work:hover{
+                text-decoration: underline;
+                color: rgb(87, 14, 222);
+                cursor: pointer;
+            }
+            .work:active{
+                opacity: 0.7;
+            }
+            .resume{
+                font-size: 11px;
+                margin-right: 5px;
+                color: white;
+                text-decoration: none;
+            }
+            .resume:hover{
+                text-decoration: underline;
+                color: rgb(87, 14, 222);
+                cursor: pointer;
+            }
+            .resume:active{
+                opacity: 0.7;
+            }
+            .contact{
+                font-size: 11px;
+                margin-right: 5px;
+                color: white;
+                text-decoration: none;
+            }
+            .contact:hover{
+                text-decoration: underline;
+                color: rgb(87, 14, 222);
+                cursor: pointer;
+            }
+            .contact:active{
+                opacity: 0.7;
+            }
+            
+            .pro_op{
+                color: white;
+                text-decoration: none;
+            }
+            .pyth_op{
+                margin-bottom: 5px;
+                color: white;
+            }
+            .js_op{
+                margin-bottom: 5px;
+                color: white;
+            }
+            .htm_op{
+                margin-bottom: 5px;
+                color: white;
+            }
+            .sq_op{
+                margin-bottom: 5px;
+                color: white;
+            }
+            .row_1{
+                color: white;
+                font-size: 18px;
+            }
+            
+
+        
