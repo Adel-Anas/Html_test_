@@ -150,6 +150,16 @@
                 color: white;
                 font-size: 18px;
             }
-            
+            .footer_p{
+                margin-top: 40px;
+                color: white;
+                font-size: 12px;
+            }
+
+            .input_2{
+                border-radius: 4px;
+                height: 18px;
+                border-width: 1px;
+            }
 
         
